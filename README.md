@@ -1,4 +1,4 @@
-This repository contains the scripts implemented using jupyter notebook for the machine learning lab class
+### This repository contains the scripts implemented using jupyter notebook for the machine learning lab class
  
 - Train a linear regression algorithm to predict a person's health insurance premium accurately
   Tensorflow and Keras env were used
